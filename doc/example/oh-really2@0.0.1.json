@@ -1,0 +1,12 @@
+{
+  "name": "oh-really2",
+  "version": "0.0.1",
+  "private": false,
+  "description": "Just in case npm runs out of placeholder packags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED"
+}
