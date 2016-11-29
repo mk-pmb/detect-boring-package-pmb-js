@@ -12,6 +12,9 @@ Guess whether an npm package is a boring, semi-empty placeholder.
 
 Usage
 -----
+
+(Fictional example manifests, not from real packages on npm.)
+
 ```bash
 $ ./cli.sh doc/example/*.json
 @ doc/example/oh-really2@0.0.1.json { private: false,
